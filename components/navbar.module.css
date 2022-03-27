@@ -1,0 +1,17 @@
+.menu-container a {
+  margin-right: 10px;
+  transition: all 0.3s ease;
+}
+.menu-container a:hover {
+  text-decoration: underline;
+  color: #444444;
+}
+
+.menu-container {
+  margin-top: 10px;
+}
+
+.active-link {
+  color: #0070f3;
+  font-weight: bold;
+}
